@@ -138,11 +138,11 @@ def prepare_dataset():
         ]
     )
     datasets_name = [
-        # "Animal6",
-        # "Animal3",
+        "Animal6",
+        "Animal3",
         "Animal151",
-        # "cifar10",
-        # "cifar100",
+        "cifar10",
+        "cifar100",
     ]
 
     # consumer dataset load
